@@ -331,7 +331,7 @@ android {
 
 This is a proprietary project by **Muxro Technologies**. For collaboration inquiries:
 
-- **Email**: contact@muxrotechnologies.com
+- **Email**: jatin@muxro.com
 - **Issues**: Use GitHub Issues for bug reports
 - **Pull Requests**: Contact maintainers before submitting
 
@@ -362,9 +362,9 @@ This software is proprietary and confidential. Unauthorized copying, distributio
 ## 📞 Support
 
 ### For Businesses
-- **Sales**: sales@muxrotechnologies.com
-- **Support**: support@muxrotechnologies.com
-- **Website**: [www.muxrotechnologies.com](https://www.muxrotechnologies.com)
+- **Sales**: jatin@muxro.com
+- **Support**: jatin@muxro.com
+- **Website**: [www.muxro.com](https://www.muxro.com)
 
 ### For Developers
 - **Issues**: [GitHub Issues](https://github.com/jating0000la/MuxroAttendance/issues)
